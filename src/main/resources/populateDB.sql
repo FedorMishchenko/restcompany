@@ -1,0 +1,1 @@
+INSERT INTO customer_rest VALUES (1, 'Semen', 'Gorbunkov', 'Ukraine, Kharkov, Korolenko, 2', 1000.00);
